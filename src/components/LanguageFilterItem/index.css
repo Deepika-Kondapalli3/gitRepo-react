@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.lang {
+  margin: 20px;
+  font-family: 'Roboto';
+  padding: 5px;
+}
+
+.add-style {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 7px;
+  padding: 5px;
+}
+
+.fail {
+  display: flex;
+  justify-content: center;
+}
+
+.button{
+  border:none;
+  background-color: transparent;
+}

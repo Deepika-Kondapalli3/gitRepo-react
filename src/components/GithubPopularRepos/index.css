@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.app-container {
+  min-height: 100vh;
+  background-color: #ffffff;
+  font-family: lobster;
+  color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.ul-styling {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  justify-content: center;
+}
